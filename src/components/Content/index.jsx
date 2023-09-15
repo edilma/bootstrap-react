@@ -2,7 +2,7 @@ import  Button  from "react-bootstrap/Button"
 
 
 /*
-
+Component for the video
 */
 export default function Content(){
 
